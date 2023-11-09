@@ -2,10 +2,9 @@
 
 **Objectives:** To train text classification models and analyze their results.
 
-## Train a logistic regression model for binary classification
+Train a logistic regression model for binary classification
 
-## Implement a KNN model for multi-class classification using BERT document embeddings
+Implement a KNN model for multi-class classification using BERT document embeddings
 
-## Comparing classification models
+Comparing classification models
 
-14. (10 pt) For each of the two models you trained (logistic regression and KNN), discuss its pros and cons. Why might someone choose one model architecture over another?
